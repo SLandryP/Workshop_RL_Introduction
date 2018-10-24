@@ -1,0 +1,22 @@
+Python 3.7 Installation:
+    https://www.python.org/downloads/
+
+
+Jupyter Installation:
+    https://jupyter.org/install
+
+
+OpenAI Installation:
+        https://gym.openai.com/docs/
+        
+        
+OpenAI Atari2600 Installation:
+        https://github.com/openai/atari-py
+
+
+Matplotlib Installation:
+    https://matplotlib.org/users/installing.html
+    
+
+Numpy Installation:
+    https://www.scipy.org/install.html
