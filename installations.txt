@@ -1,4 +1,4 @@
-to run (Linux) the Jupyter server:
+to run the Jupyter server (Linux):
     use `jupyter notebook` command line in in the repository's root folder.
 
 Python 3.7 Installation:
