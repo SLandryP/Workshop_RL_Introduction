@@ -1,5 +1,5 @@
-to run:
-    use `jupyter notebook` in the repository's root folder.
+to run (Linux):
+    use `jupyter notebook` command line in in the repository's root folder.
 
 Python 3.7 Installation:
     https://www.python.org/downloads/
